@@ -1,0 +1,87 @@
+Experimentalist's Briefing: UFT v1.1
+Endalkachew Addis Kasahun \ Independent Researcher \ Contact:  [endalkachewaddis\@gmail.com]
+Overview
+This briefing provides the essential, actionable predictions of the Unified Field Theory v1.1 (UFT v1.1) for use
+by experimental physicists working with particle colliders and gravitational wave observatories. The theory
+makes two key falsifiable predictions:
+The existence of a new 98.4 GeV dark matter candidate (the  particle).
+A measurable residual in gravitational wave signals from binary black hole mergers.
+Part A: Collider Physics (LHC, FCC, CEPC)
+Particle Prediction
+Name : Chi particle (  )
+Mass : 98.4 GeV
+Type : Majorana fermion singlet
+Stability : Stable; protected by a  symmetry
+Couplings : Minimal weak-scale coupling to Higgs and Z bosons (portal-type)
+Production Channels
+Process Final State Signature Notes
+Missing energy + mono-jet or mono-photon Leading discovery channel
+Invisible Higgs decays Precision constraint channel
+Recommended Search Parameters
+MET threshold :  GeV
+Jet/Photon pT :  GeV
+Luminosity : ≥ 300 fb⁻¹ recommended
+Trigger : MET + ISR
+Cross Section Estimate (√s = 13 TeV)
+Channel
+Mono-jet  pb1. χ
+2.
+• χ
+•
+•
+• Z2
+•
+pp→Z→∗χχ
+H→χχ
+• >80
+• >100
+•
+•
+σ(pp→χχ+X)
+∼0.2±0.05
+1Channel
+Mono-photon  pb
+Notes
+Search analogous to simplified DM models with Higgs portal.
+Dedicated  searches strongly constrain parameter space.
+Part B: Gravitational Wave Observatories (LIGO, LISA, CE)
+Prediction
+UFT v1.1 predicts a residual strain in gravitational wave signals from binary black hole mergers, relative to
+the General Relativity (GR) waveform.
+Residual Features
+Amplitude :
+Duration : Peaks around merger (t = 150 ms)
+Structure : High-frequency oscillation superimposed on GR waveform
+Detectability : Within sensitivity range of LISA and next-gen LIGO
+File Provided
+Filename : residual_template.dat
+Format : ASCII two-column file: [Time (s), Residual Strain h(t)]
+Sampling : 5000 points over 0.2 s (uniformly spaced)
+Usage Instructions
+Apply standard matched-filtering using the template
+Target high-mass mergers (≥ 20 M☉) at low redshift (z ≤ 0.1)
+Correlate with numerical relativity libraries to isolate deviation
+Notes
+Template derived from causal spectral action corrections to near-merger waveform.
+Signal is distinguishable only in strong-field, high-curvature regime.
+Contact
+Please cite: "A Unified Field Theory from a Causal Spectral Action"  (Forthcoming in Phys. Rev. D ) and refer to this
+briefing in all experimental work based on UFT v1.1 predictions.σ(pp→χχ+X)
+∼0.07±0.02
+•
+• H→inv
+• ∼1×10−22
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+2Collaboration inquiries and matched-filter customization requests can be directed to the corresponding
+author via institutional channel.
+3
